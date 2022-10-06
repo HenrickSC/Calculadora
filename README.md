@@ -1,5 +1,5 @@
 # Calculadora
- Calculadora simples em JavaScript
+ Calculadora com as operações basicas
  
  ## Print
  
