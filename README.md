@@ -1,5 +1,5 @@
 # Calculadora
- Calculadora com as operações basicas
+ Calculadora com as operações basicas :smiley:
  
  ## Print
  
